@@ -8,6 +8,6 @@ Lap Timer: Record and review laps during timing sessions.
 Customizable: Adjustable intervals and display settings.
 Responsive UI: Works on both desktop and mobile.
 
+https://github.com/user-attachments/assets/e08658dd-e066-4d09-b27c-ff3be9b653ea
 
-Uploading Stopwatch Application.mp4…
 
