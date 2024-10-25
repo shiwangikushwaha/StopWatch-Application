@@ -7,3 +7,7 @@ Start/Stop/Pause/Reset: Full control over timing.
 Lap Timer: Record and review laps during timing sessions.
 Customizable: Adjustable intervals and display settings.
 Responsive UI: Works on both desktop and mobile.
+
+
+Uploading Stopwatch Application.mp4…
+
